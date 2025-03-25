@@ -1,5 +1,7 @@
 runtime: nodejs22
 
+service: test-dbv1.1
+
 instance_class: F1
 
 handlers:
