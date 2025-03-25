@@ -1,6 +1,6 @@
 runtime: nodejs22
 
-service: test-dbv1.1
+service: test-db
 
 instance_class: F1
 
